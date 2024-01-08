@@ -38,3 +38,6 @@ The dataset includes Amazon reviews, with a balanced mix of human-written and co
 | fakeROBERTA (Salminen et al., 2022)| 125M       | 97       | 97        | 97     | 97       | 3069                      |
 | MiniLM                             | 118M       | 97       | 97        | 97     | 97       | 1054                      |
 
+
+## Conclusion
+In conclusion, fake reviews can mislead consumers which cause damage to both business and consumers. Apart from that, the advancement of LLM or AI models in recent years has contributed to the generation of fake reviews using these algorithms. Thus, the computer-generated fake reviews on e-commerce platforms presents a significant challenge, potentially misleading consumers and harming both businesses and consumers. This study has effectively addressed this challenge by investigating the capabilities of transformer-based models in detecting computer-generated fake reviews. Our research focused on models like ELECTRA and MiniLM, which have demonstrated their competitiveness and, in several aspects, matched or even surpassed the current state-of-the-art model, fakeRoBERTa.
